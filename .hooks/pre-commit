@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Some files aren't formatted, please run 'go fmt ./...' to format your source code before committing"
+exit 1
